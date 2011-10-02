@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	Social Bookmarks
+	Template
+	Copyright(c) Apostolos Dountsis
+	http://www.dountsis.com
+-->
+
+<social_sites xsi:noNamespaceSchemaLocation="social_bookmarks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<site>
+</social_sites>
